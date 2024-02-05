@@ -1,0 +1,851 @@
+{
+    "7c1a4308-360a-4c6d-b29d-c3446cbcf434": {
+        "label": [
+            "Controller",
+            "Identity",
+            "Name of the legal person"
+        ],
+        "question": "What is the controller’s legal name ?",
+        "annotate_first": true
+    },
+    "22c4bb18-365f-4524-b9a7-75422c48cfbe": {
+        "label": [
+            "Controller",
+            "Identity",
+            "Register Number"
+        ],
+        "question": "What is the controller’s register number ?",
+        "annotate_first": true
+    },
+    "e1dbf6ff-7e00-4114-926b-3e68950be563": {
+        "label": [
+            "Controller",
+            "Identity",
+            "Public Name"
+        ],
+        "question": "What is the controller’s public name ?",
+        "annotate_first": true
+    },
+    "8c7e0e84-5925-4665-bbe8-3e458aea99d3": {
+        "label": [
+            "Controller",
+            "Contact",
+            "Phone Number"
+        ],
+        "question": "What is the controller’s phone number ?"
+    },
+    "d0e02603-052e-4396-83ed-ca918177d099": {
+        "label": [
+            "Controller",
+            "Contact",
+            "Email Address"
+        ],
+        "question": "What is the controller’s email address ?",
+        "annotate_first": true
+    },
+    "5b44f0d0-3856-42df-875a-5778664bb785": {
+        "label": [
+            "Controller",
+            "Contact",
+            "Legal Address"
+        ],
+        "question": "What is the controller’s legal address ?",
+        "annotate_first": true
+    },
+    "8d94a6c1-568b-494c-a097-8e2293ec9d6f": {
+        "label": [
+            "Controller",
+            "Contact",
+            "Other"
+        ],
+        "question": "What other informations allow us to find the controller’s contact ?"
+    },
+    "282d475c-c655-4df8-a838-2bc4b2511ae3": {
+        "label": [
+            "Controller Representative",
+            "Identity",
+            "Name of the legal person"
+        ],
+        "question": "What is the controller representative’s legal name ?",
+        "annotate_first": true
+    },
+    "2b3df824-f1ea-4afa-9a31-d467462f1a36": {
+        "label": [
+            "Controller Representative",
+            "Identity",
+            "Register Number"
+        ],
+        "question": "What is the controller representative’s register number ?",
+        "annotate_first": true
+    },
+    "792addf2-37ae-44d0-9e00-fd92debf3957": {
+        "label": [
+            "Controller Representative",
+            "Identity",
+            "Public Name"
+        ],
+        "question": "What is the controller representative’s public name ?",
+        "annotate_first": true
+    },
+    "56d350ca-1967-4f69-89f1-daca7719edbf": {
+        "label": [
+            "Controller Representative",
+            "Contact",
+            "Phone Number"
+        ],
+        "question": "What is the controller representative’s phone number ?"
+    },
+    "562ed2e1-9769-45ce-b10c-5d691da5b08e": {
+        "label": [
+            "Controller Representative",
+            "Contact",
+            "Email Address"
+        ],
+        "question": "What is the controller representative’s email address ?",
+        "annotate_first": true
+    },
+    "3dbc54ce-6c7a-4c74-8efe-84808b7ec9cd": {
+        "label": [
+            "Controller Representative",
+            "Contact",
+            "Legal Address"
+        ],
+        "question": "What is the controller representative’s legal address ?",
+        "annotate_first": true
+    },
+    "87a6aba3-c7ca-448c-a623-3f18fdb36abd": {
+        "label": [
+            "Controller Representative",
+            "Contact",
+            "Other"
+        ],
+        "question": "What other informations allow us to find the controller representative’s contact ?"
+    },
+    "724f2d01-e3bf-4c5b-9628-9901ab5692cc": {
+        "label": [
+            "DPO",
+            "Identity",
+            "Name of the legal person"
+        ],
+        "question": "What is the data protection officer’s legal name ?",
+        "annotate_first": true
+    },
+    "5575f1e8-0496-4f7a-af51-f46188efc6ac": {
+        "label": [
+            "DPO",
+            "Identity",
+            "Register Number"
+        ],
+        "question": "What is the data protection officer’s register number ?",
+        "annotate_first": true
+    },
+    "e61a0c47-4966-4c25-9abf-2960ac74433d": {
+        "label": [
+            "DPO",
+            "Identity",
+            "Public Name"
+        ],
+        "question": "What is the data protection officer’s public name ?",
+        "annotate_first": true
+    },
+    "cc9bd633-4724-45e4-aef9-1df721fbb143": {
+        "label": [
+            "DPO",
+            "Contact",
+            "Phone Number"
+        ],
+        "question": "What is the data protection officer’s phone number ?"
+    },
+    "ed199666-30aa-4f52-a125-710f6ab80292": {
+        "label": [
+            "DPO",
+            "Contact",
+            "Email Address"
+        ],
+        "question": "What is the data protection officer’s email address ?",
+        "annotate_first": true
+    },
+    "8b8d2718-c203-49a6-8dd7-7abddf90e914": {
+        "label": [
+            "DPO",
+            "Contact",
+            "Legal Address"
+        ],
+        "question": "What is the data protection officer’s legal address ?",
+        "annotate_first": true
+    },
+    "dbc73630-c97e-4920-9845-e6de0fd97719": {
+        "label": [
+            "DPO",
+            "Contact",
+            "Other"
+        ],
+        "question": "What other informations allow us to find the data protection officer’s contact ?"
+    },
+    "558abd58-847e-4329-b662-876472f8c443": {
+        "label": [
+            "PD Category",
+            "Type",
+            "Contact"
+        ],
+        "question": "Is the data subject’s contact processed ?"
+    },
+    "732a2fb7-c50e-4ef0-8dc0-58428c573c8f": {
+        "label": [
+            "PD Category",
+            "Type",
+            "Financial"
+        ],
+        "question": "Are the data subject’s financial informations processed ?"
+    },
+    "9a990202-db90-4ef2-a695-e031afe25f37": {
+        "label": [
+            "PD Category",
+            "Type",
+            "Location"
+        ],
+        "question": "Is the data subject’s location processed ?"
+    },
+    "91c3527a-cad7-4213-8615-cb481eeba8a0": {
+        "label": [
+            "PD Category",
+            "Type",
+            "Demographic"
+        ],
+        "question": "Are the data subject’s demographic informations processed ?"
+    },
+    "2963ee4b-cde7-430b-8f1b-8d47a346af00": {
+        "label": [
+            "PD Category",
+            "Type",
+            "Personal Identifier"
+        ],
+        "question": "Is the data subject’s personal identifier processed ?"
+    },
+    "e332c45f-fb8b-4fa6-b6b3-db6f7fd16b36": {
+        "label": [
+            "PD Category",
+            "Type",
+            "User Online Activities"
+        ],
+        "question": "Are the data subject’s user online activities processed ?"
+    },
+    "af802ed3-9600-4e1f-a1c0-de46c76581c0": {
+        "label": [
+            "PD Category",
+            "Type",
+            "User Profile"
+        ],
+        "question": "Are the data subject’s user profile informations processed "
+    },
+    "a368f773-f9f9-4156-a406-70a03d3c8724": {
+        "label": [
+            "PD Category",
+            "Type",
+            "Social Media Data"
+        ],
+        "question": "Are the data subject’s social media data processed ?"
+    },
+    "98256998-a975-4c2a-a7f3-b1547a915e2c": {
+        "label": [
+            "PD Category",
+            "Type",
+            "IP Address and Device ID"
+        ],
+        "question": "Are the data subject’s IP address and divide ID processed "
+    },
+    "2e6c5aed-8e9f-4b8b-af83-c95ff0dded56": {
+        "label": [
+            "PD Category",
+            "Type",
+            "Cookies and Tracking Elements"
+        ],
+        "question": "Are the data subject’s locally stored identifiers processed ?"
+    },
+    "f14ef6e8-bcfe-4d0e-9010-2b9088f80d2f": {
+        "label": [
+            "PD Category",
+            "Type",
+            "Computer Information"
+        ],
+        "question": "Are the data subject’s computer information processed ?"
+    },
+    "60e0c5c3-000d-4fac-b275-53e12aab2c89": {
+        "label": [
+            "PD Category",
+            "Type",
+            "Survey Data"
+        ],
+        "question": "Are the data subject’s survey data processed ?"
+    },
+    "d0a9483f-f21d-4498-8262-e499d4200329": {
+        "label": [
+            "PD Category",
+            "Type",
+            "Generic Personal Information"
+        ],
+        "question": "Are the data subject’s generic personal information processed ?"
+    },
+    "bc7fc33c-6e5a-415d-b8b2-d5a414b0b459": {
+        "label": [
+            "PD Category",
+            "Type",
+            "Other"
+        ],
+        "question": "What other data subject’s personal data are processed ?"
+    },
+    "a586f643-4749-4eb3-a049-aac7d9a6a8ef": {
+        "label": [
+            "PD Category",
+            "Special",
+            "Racial or ethnic origin"
+        ],
+        "question": "Are the data subject’s racial or ethnic origin informations processed ?"
+    },
+    "037ed068-8e4d-4a8b-bc5e-fd23c5c4addd": {
+        "label": [
+            "PD Category",
+            "Special",
+            "Political opinions"
+        ],
+        "question": "Are the data subject’s political opinions processed ?"
+    },
+    "f49ae9b2-6340-4ec4-ac51-83a3c62e29a0": {
+        "label": [
+            "PD Category",
+            "Special",
+            "Religious or philosophical beliefs"
+        ],
+        "question": "Are the data subject’s religious or philosophical beliefs processed ?"
+    },
+    "aac25e18-6036-4b22-b04f-48f6e2fafdfc": {
+        "label": [
+            "PD Category",
+            "Special",
+            "Trade union membership"
+        ],
+        "question": "Are the data subject’s trade union membership informations processed ?"
+    },
+    "1d05109c-2921-4f32-97e4-ba84d2e9471d": {
+        "label": [
+            "PD Category",
+            "Special",
+            "Genetic data"
+        ],
+        "question": "Are the data subject’s genetic data processed ?"
+    },
+    "f26e0510-de53-4a7c-828a-b36d79019ee9": {
+        "label": [
+            "PD Category",
+            "Special",
+            "Biometric data"
+        ],
+        "question": "Are the data subject’s biometric data processed"
+    },
+    "227d37e2-4b91-45c7-865f-5b13acbbf603": {
+        "label": [
+            "PD Category",
+            "Special",
+            "Health data"
+        ],
+        "question": "Are the data subject’s health data processed ?"
+    },
+    "0462c0b1-854b-427c-afd3-c3c95980f7cb": {
+        "label": [
+            "PD Category",
+            "Special",
+            "Sex life or sexual orientation"
+        ],
+        "question": "Are the data subject’s sex life or sexual orientation informations processed ?"
+    },
+    "8dd195d8-5f05-4bde-a9fe-328052b8600a": {
+        "label": [
+            "Processing Purposes",
+            "Commercial interest"
+        ],
+        "question": "Are the informations processed for a commercial interest ?"
+    },
+    "8036a685-9751-40ef-adf7-8dbdbf97ffbc": {
+        "label": [
+            "Processing Purposes",
+            "Research and development"
+        ],
+        "question": "Are the informations processed for a research and development purpose ?"
+    },
+    "9c6f73f5-b7a5-4f31-a801-f60696a819d6": {
+        "label": [
+            "Processing Purposes",
+            "Security"
+        ],
+        "question": "Are the informations processed for a security purpose ?"
+    },
+    "b8539e79-6b98-47f0-8377-b8dfdccecdaa": {
+        "label": [
+            "Processing Purposes",
+            "Service personalization"
+        ],
+        "question": "Are the informations processed for a service personalization purpose ?"
+    },
+    "d9bd3650-4bb7-4e67-be05-4d83ef61196a": {
+        "label": [
+            "Processing Purposes",
+            "Service optimization"
+        ],
+        "question": "Are the informations processed for a service optimization purpose ?"
+    },
+    "7f65b124-783a-4fb9-ad49-14ae2cc43d6f": {
+        "label": [
+            "Processing Purposes",
+            "Service provision"
+        ],
+        "question": "Are the informations processed for a service provision purpose ?"
+    },
+    "6259e726-32ae-47b5-8186-e61a733ddce3": {
+        "label": [
+            "Processing Purposes",
+            "Legal compliance"
+        ],
+        "question": "Are the informations processed in order to follow a legal compliance ?"
+    },
+    "10733aaf-1074-4045-a319-c3b6ba864788": {
+        "label": [
+            "Processing Purposes",
+            "Other"
+        ],
+        "question": "Are the informations processed for other purposes ?"
+    },
+    "9c775744-de93-449d-952e-57728045b28d": {
+        "label": [
+            "Legal Basis",
+            "Consent"
+        ],
+        "question": "Is the data processing based on the data subject’s consent ?"
+    },
+    "4c689e90-7fde-4eb4-beda-ed0b01705c1b": {
+        "label": [
+            "Legal Basis",
+            "Contract",
+            "Contract (primary)"
+        ],
+        "question": "Is the data processing based on a contract with the data subject and are there indications about the consequences of the failure of providing data ?"
+    },
+    "4965849a-f3f2-4ab3-bd4a-ce445f7ecfb6": {
+        "label": [
+            "Legal Basis",
+            "Contract",
+            "Contractual (supplemental)"
+        ],
+        "question": "Is the collection of data about the contract required by contractual reasons and are there indications about the consequences of the failure of providing data ?"
+    },
+    "aa5c8275-e40f-428d-b291-3a3895eaca21": {
+        "label": [
+            "Legal Basis",
+            "Contract",
+            "To enter contract (supplemental)"
+        ],
+        "question": "Is the collection of data required to enter into a contract and are there indications about the consequences of the failure of providing data ?"
+    },
+    "c78a8991-ae21-4d5d-b480-ee7361a84d7f": {
+        "label": [
+            "Legal Basis",
+            "Contract",
+            "Statutory (supplemental)"
+        ],
+        "question": "Is the collection of data about the contract required by statutory reasons and are there indications about the consequences of the failure of providing data ?"
+    },
+    "b78c3369-7090-40ae-b4b6-1c47c84a8289": {
+        "label": [
+            "Legal Basis",
+            "Legal obligation"
+        ],
+        "question": "Is the data processing based on a legal obligation ?"
+    },
+    "815c9746-470d-440d-9b3a-49a09d3a5a2d": {
+        "label": [
+            "Legal Basis",
+            "Vital interests"
+        ],
+        "question": "Is the data processing based on concerns of vital interests ?"
+    },
+    "79d64d52-df49-4bc0-a010-7f49811482fa": {
+        "label": [
+            "Legal Basis",
+            "Public function"
+        ],
+        "question": "Is the data processing based on concerns of public function ?"
+    },
+    "23c07c5e-d6eb-40d8-bf67-3d3e3d1b9f78": {
+        "label": [
+            "Legal Basis",
+            "Legitimate interest",
+            "Legitimate interest (Primary)"
+        ],
+        "question": "Is the data processing based on legitimate interest ?"
+    },
+    "a42d8323-7e30-46d9-b274-9792cb7664f9": {
+        "label": [
+            "Legal Basis",
+            "Legitimate interest",
+            "Description"
+        ],
+        "question": "Is there a description of the legitimate interest when the data processing is based on it ?"
+    },
+    "6fcb008f-bda4-49be-a51b-281061d60032": {
+        "label": [
+            "PD Disclosure",
+            "Recipients",
+            "Named"
+        ],
+        "question": "Is the recipient of the data disclosure named ?"
+    },
+    "ae6ea946-103d-499b-a1b3-1813d940f477": {
+        "label": [
+            "PD Disclosure",
+            "Recipients",
+            "Category"
+        ],
+        "question": "Is the recipient’s category of the data disclosure determined ?"
+    },
+    "4b31c65c-a3ad-4d2e-be95-49781183eb8f": {
+        "label": [
+            "PD Disclosure",
+            "Recipients",
+            "Unnamed"
+        ],
+        "question": "Is the recipient of the data disclosure unnamed ?"
+    },
+    "3f5598bc-f3e3-4759-9583-194b447fef11": {
+        "label": [
+            "PD Disclosure",
+            "Other"
+        ],
+        "question": "Are other informations available concerning the data disclosure ?"
+    },
+    "3a8f4191-49f1-4baa-99b9-9e6708418703": {
+        "label": [
+            "Transfer to third countries or international organizations",
+            "Adequacy Decision",
+            "Territory"
+        ],
+        "question": "Is the transfer of data outside the European Economic Area supported by an adequacy decision valid on a specific territory ?"
+    },
+    "cd0fcb78-3dac-44bc-bcc6-1c3ff4ee3ad6": {
+        "label": [
+            "Transfer to third countries or international organizations",
+            "Adequacy Decision",
+            "Sector"
+        ],
+        "question": "Is the transfer of data outside the European Economic Area supported by an adequacy decision valid for a specific sector ?"
+    },
+    "0e793647-296c-420c-9a0c-35fb9dfd0e07": {
+        "label": [
+            "Transfer to third countries or international organizations",
+            "Adequacy Decision",
+            "Country"
+        ],
+        "question": "Is the transfer of data outside the European Economic Area supported by an adequacy decision valid on a specific country ?"
+    },
+    "404ea8a0-39fe-4f54-b5cf-5bee1e7d06d7": {
+        "label": [
+            "Transfer to third countries or international organizations",
+            "Adequacy Decision",
+            "Reference"
+        ],
+        "question": "Is there a reference of an adequacy decision to authorize the transfer of data outside the European Economic Area ?"
+    },
+    "550d46ff-78e5-4248-9057-fd994a4b2a86": {
+        "label": [
+            "Transfer to third countries or international organizations",
+            "Safeguards",
+            "Legally binding and enforceable instrument between public authorities or bodies"
+        ],
+        "question": "Is the transfer of data outside the European Economic Area supported by a legally binding and enforceable instrument between public authorities or bodies ?"
+    },
+    "992a60d3-db90-4293-962e-1de1ce9e335c": {
+        "label": [
+            "Transfer to third countries or international organizations",
+            "Safeguards",
+            "Binding corporate rules (BCR)"
+        ],
+        "question": "Is the transfer of data outside the European Economic Area supported by binding corporate rules (BCR) ?"
+    },
+    "9c987f66-aee0-4cd2-a253-df57ef89f45b": {
+        "label": [
+            "Transfer to third countries or international organizations",
+            "Safeguards",
+            "Standard data protection clauses"
+        ],
+        "question": "Is the transfer of data outside the European Economic Area supported by standard data protection clauses ?"
+    },
+    "394c1264-a6a1-400f-9cb5-608a7c983420": {
+        "label": [
+            "Transfer to third countries or international organizations",
+            "Safeguards",
+            "Approved code of conduct"
+        ],
+        "question": "Is the transfer of data outside the European Economic Area supported by approved code of conduct ?"
+    },
+    "bf8dcad4-ae72-4a16-9161-7f23e781af02": {
+        "label": [
+            "Transfer to third countries or international organizations",
+            "Safeguards",
+            "Approved certification mechanism"
+        ],
+        "question": "Is the transfer of data outside the European Economic Area supported by an approved certification mechanism ?"
+    },
+    "4ddbc769-7c28-4a32-a45a-df330a95ef63": {
+        "label": [
+            "Transfer to third countries or international organizations",
+            "Safeguards",
+            "Contractual clauses between the controller or processor and the controller, processor or the recipient of the personal data in the third country or international organisation"
+        ],
+        "question": "Is the transfer of data outside the European Economic Area supported by contractual clauses between the controller or processor and the controller, processor or the recipient of the personal data in the third country or international organisation ?"
+    },
+    "b3f5121e-bc1d-47d5-89cd-26f9221ec431": {
+        "label": [
+            "Transfer to third countries or international organizations",
+            "Safeguards",
+            "Provisions to be inserted into administrative arrangements between public authorities or bodies which include enforceable and effective data subject rights"
+        ],
+        "question": "s the transfer of data outside the European Economic Area supported by a provision to be inserted into administrative arrangements between public authorities or bodies which include enforceable and effective data subject rights ?"
+    },
+    "63d78247-8128-459b-824b-c58c310b3188": {
+        "label": [
+            "Transfer to third countries or international organizations",
+            "Specific derogations",
+            "Explicit consent"
+        ],
+        "question": "Is the transfer of data outside the European Economic Area authorized by an explicit consent ?"
+    },
+    "1693c55b-5a2b-40e6-803c-675191505809": {
+        "label": [
+            "Transfer to third countries or international organizations",
+            "Specific derogations",
+            "Necessary for the performance of a contract between the data subject and the controller or the implementation of pre-contractual measures taken at the data subject’s request"
+        ],
+        "question": "Is the transfer of data outside the European Economic Area authorized because it is necessary for the performance of a contract between the data subject and the controller or the implementation of pre-contractual measures taken at the data subjects request ?"
+    },
+    "90fb4156-0e36-451a-a07b-b7f40bef4f39": {
+        "label": [
+            "Transfer to third countries or international organizations",
+            "Specific derogations",
+            "Necessary for the conclusion or performance of a contract concluded in the interest of the data subject between the controller and another natural or legal person"
+        ],
+        "question": "Is the transfer of data outside the European Economic Area authorized because it is necessary for the conclusion or performance of a contract concluded in the interest of the data subject between the controller and another natural or legal person ?"
+    },
+    "e2fb90b2-b545-4313-ab1d-9b987ce782a1": {
+        "label": [
+            "Transfer to third countries or international organizations",
+            "Specific derogations",
+            "Necessary for important reasons of public interest"
+        ],
+        "question": "Is the transfer of data outside the European Economic Area authorized because it is necessary for important reason of public interest ?"
+    },
+    "9a65bdeb-d304-4eff-bd27-3f4fca140f45": {
+        "label": [
+            "Transfer to third countries or international organizations",
+            "Specific derogations",
+            "Necessary for the establishment, exercise or defence of legal claims"
+        ],
+        "question": "Is the transfer of data outside the European Economic Area authorized because it is necessary for the establishment, exercise or defense of legal claims ?"
+    },
+    "22858d70-5523-4811-8f42-2cc9c6f4ffc4": {
+        "label": [
+            "Transfer to third countries or international organizations",
+            "Specific derogations",
+            "Necessary in order to protect the vital interests of the data subject or of other persons, where the data subject is physically or legally incapable of giving consent"
+        ],
+        "question": "Is the transfer of data outside the European Economic Area authorized because it is necessary in order to protect the vital interest of data subject or of other persons, where the data subject is physically or legally incapable of consent ?"
+    },
+    "d7ea9e70-3394-4553-a8f4-ea57e280204a": {
+        "label": [
+            "Transfer to third countries or international organizations",
+            "Specific derogations",
+            "Transfer is made from a register which according to Union or Member State law is intended to provide information to the public and which is open to consultation either by the public in general or by any person who can demonstrate a legitimate interest, but only to the extent that the conditions laid down by Union or Member State law for consultation are fulfilled in the particular case"
+        ],
+        "question": "Is the transfer of data outside the European Economic Area authorized because a transfer is made from a register which according to Union or Member State law is intended to provide information to the public and which is open to consultation either by the public in general or by any person who can demonstrate a legitimate interest, but only to the extent that the conditions laid down by Union or Member State law for consultation are fulfilled in the particular case ?"
+    },
+    "88550d2b-38dc-4afd-89b2-a5b59863cbc8": {
+        "label": [
+            "PD Time Stored",
+            "Specific"
+        ],
+        "question": "Is the data time storage precise ?"
+    },
+    "699939d9-800a-4e8e-a834-c626d32d4bb3": {
+        "label": [
+            "PD Time Stored",
+            "Criteria"
+        ],
+        "question": "Are there criteria in order to determine the time storage of the data ?"
+    },
+    "37974043-ad19-41c2-bc7e-f7198df1b96d": {
+        "label": [
+            "Data Subjects Rights",
+            "Access"
+        ],
+        "question": "Has the data subject access to his/her data ?"
+    },
+    "df13328c-d34a-4101-8995-e2928918d7f4": {
+        "label": [
+            "Data Subjects Rights",
+            "Rectification"
+        ],
+        "question": "Is the data subject allowed to rectify his/her data ?"
+    },
+    "e92ef7f5-0e25-4f71-9ff9-3832771b7b82": {
+        "label": [
+            "Data Subjects Rights",
+            "Erasure"
+        ],
+        "question": "Is the data subject allowed to erase his/her data ?"
+    },
+    "8f7677ba-340b-4446-8e96-b6e2c183aa7c": {
+        "label": [
+            "Data Subjects Rights",
+            "Restriction"
+        ],
+        "question": "Is the data subject allowed to restrict the process of his/her data ?"
+    },
+    "d2b90c5e-162a-4b59-98a4-9e086b2e9366": {
+        "label": [
+            "Data Subjects Rights",
+            "Object to processing"
+        ],
+        "question": "Can the data subject object to the processing of his/her data ?"
+    },
+    "b21ac5a3-6ef8-4398-844a-8fec1b471d99": {
+        "label": [
+            "Data Subjects Rights",
+            "Data portability"
+        ],
+        "question": "Is the data subject allowed to have a copy of his/her data ?"
+    },
+    "1462a833-6c35-407d-95c6-e4e84b2d4d60": {
+        "label": [
+            "Data Subjects Rights",
+            "Withdraw consent"
+        ],
+        "question": "Is the data subject allowed to withdraw his/her consent ?"
+    },
+    "e40f4549-6a84-4519-8adf-74de8fe69485": {
+        "label": [
+            "Data Subjects Rights",
+            "Complaint",
+            "Referral to a Supervisory Authority"
+        ],
+        "question": "Is the data subject allowed to lodge a complaint to a supervisory authority ?"
+    },
+    "b7ac1f45-70b4-45c0-81a0-26b5bfd63c4a": {
+        "label": [
+            "Automated Decision-Making, including Profiling",
+            "Existence"
+        ],
+        "question": "Is an automatic decision process put in place?"
+    },
+    "3467cacb-c5dd-4442-b3df-acfd456efc30": {
+        "label": [
+            "Automated Decision-Making, including Profiling",
+            "Logic involved",
+            "Purposes"
+        ],
+        "question": "What are the purposes of the automated decision making system ?"
+    },
+    "e82acc8b-82b1-4063-9ec0-c5e9bb28350f": {
+        "label": [
+            "Automated Decision-Making, including Profiling",
+            "Logic involved",
+            "Consequences"
+        ],
+        "question": "What are the consequences resulting from the implementation of the automated decision making system ?"
+    },
+    "8317518a-565d-4e28-b95c-872bf90381fc": {
+        "label": [
+            "Automated Decision-Making, including Profiling",
+            "Logic involved",
+            "Input data"
+        ],
+        "question": "What are the input data used to make the automated decision making system work ?"
+    },
+    "1e15f530-2d17-42d6-8782-f3d38f03eeab": {
+        "label": [
+            "Automated Decision-Making, including Profiling",
+            "Logic involved",
+            "Output decision"
+        ],
+        "question": "What is the output decision taken by the automated decision making system ?"
+    },
+    "76a0404e-632d-4e95-bc04-632817b50006": {
+        "label": [
+            "PD Origin",
+            "Direct"
+        ],
+        "question": "Are the personal data directly provided but the data subject ?"
+    },
+    "992c1f52-4049-46ee-9c67-029e798bc5da": {
+        "label": [
+            "PD Origin",
+            "Indirect",
+            "Cookie"
+        ],
+        "question": "Does the personal data processed come from cookies ?"
+    },
+    "6c35682e-3b3d-48dd-a0a4-6633f4497fac": {
+        "label": [
+            "PD Origin",
+            "Indirect",
+            "Publicly"
+        ],
+        "question": "Does the personal data processed come from a public source ?"
+    },
+    "96b5f181-d24c-4d40-a52b-37bacb6e9e73": {
+        "label": [
+            "PD Origin",
+            "Indirect",
+            "Third-party"
+        ],
+        "question": "Does the personal data processed come from a third-party ?"
+    },
+    "b3835e86-dfda-41cf-859c-c7092a467b54": {
+        "label": [
+            "PD Origin",
+            "Indirect",
+            "Other"
+        ],
+        "question": "Does the personal data processed come from another indirect source ?"
+    },
+    "c0626e3e-e41e-4422-adcc-371fc000411c": {
+        "label": [
+            "Children",
+            "Does Collect"
+        ],
+        "question": "Is data about children collected?"
+    },
+    "c2fb111a-b568-4162-95d4-cad6536c2bda": {
+        "label": [
+            "Children",
+            "Does Not Collect"
+        ],
+        "question": "Is it specifically mentioned that children data are not collected ?"
+    },
+    "661f597a-c90e-4045-8024-c2d083cdeacd": {
+        "label": [
+            "Children",
+            "Consent"
+        ],
+        "question": "Is the consent of the holder of the parental authority asked for the collection of children personal data ?"
+    },
+    "bdafcb65-9f4e-40ca-9234-5431b7560176": {
+        "label": [
+            "Children",
+            "Other"
+        ],
+        "question": "Are there other relevant elements regarding children data processing ?"
+    },
+    "c27dada8-e983-443b-a099-3dbbf9921183": {
+        "label": [
+            "PD Security"
+        ],
+        "question": "What are the mesures taken to ensure the security of the personal data processing ?"
+    }
+}
